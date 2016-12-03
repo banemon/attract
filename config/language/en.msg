@@ -156,5 +156,5 @@ fr;Français
 it;Italiano
 jp;日本語 (Japanese)
 kr;한글 (Korean)
-
+cn;中文（Chinese）
 #@DONE_TRANSLATED
